@@ -5,6 +5,8 @@ public class Main {
 		System.out.println("Hello, Git!");
 		
 		System.out.println("Change and commit 2.");
+		
+		System.out.println("Change and commit 3. local file");
 
 	}
 
